@@ -17890,7 +17890,7 @@ html.has-scroll-dragging {
     height: 45vw;
     max-height: 80vh;
     overflow: hidden;
-    border-radius: 12px
+    border-radius: 12px;
 }
 
 @media (max-width:991px) {
